@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "RegexFileReplacer": {
+      "commandName": "Project",
+      "commandLineArgs": "file1.txt",
+      "workingDirectory": "R:\\RegexFileReplacer\\RegexFileReplacer\\bin\\Debug"
+    }
+  }
+}
